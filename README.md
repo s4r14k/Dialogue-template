@@ -38,7 +38,7 @@ dynamic, choice-driven conversations with ease.
 
 ## Installation
 
-1. Download the **Unreal Dialogue System** plugin from the Unreal Marketplace.
+1. Download the **Unreal Dialogue System** plugin from the Unreal Marketplace [Here](https://fab.com/s/a2b79e87a8ba).
 2. Open your Unreal Engine project (or create a new one).
 3. Navigate to `Edit > Plugins` and enable the **Unreal Dialogue System** plugin.
 4. Restart the editor if prompted.
